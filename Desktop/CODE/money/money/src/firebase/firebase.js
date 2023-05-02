@@ -3,7 +3,7 @@ import { getDatabase, push, ref } from "firebase/database"
 
 
 const firebaseConfig = {
-    apiKey: process.env.apiKey,
+    apiKey: process.env.APIKEY,
     authDomain: "money-82971.firebaseapp.com",
     projectId: "money-82971",
     storageBucket: "money-82971.appspot.com",
