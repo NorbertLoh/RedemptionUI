@@ -1,0 +1,21 @@
+.error_p {
+    color: red;
+}
+
+.asterisks { 
+    color: red;
+}
+
+.divider {
+    border-top: 0.5px solid rgba(5,5,5,.06);
+    width: 100%;
+}
+
+.panel_Style {
+    margin-bottom: 12px;
+}
+
+.title_margin {
+    margin-top: 16px;
+    margin-bottom: 4px;
+}
