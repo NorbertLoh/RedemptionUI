@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RedemptionUI/static/css/main.2b55ec86.css",
+    "main.js": "/RedemptionUI/static/js/main.4f427df8.js",
+    "static/js/453.4490800f.chunk.js": "/RedemptionUI/static/js/453.4490800f.chunk.js",
+    "index.html": "/RedemptionUI/index.html",
+    "main.2b55ec86.css.map": "/RedemptionUI/static/css/main.2b55ec86.css.map",
+    "main.4f427df8.js.map": "/RedemptionUI/static/js/main.4f427df8.js.map",
+    "453.4490800f.chunk.js.map": "/RedemptionUI/static/js/453.4490800f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b55ec86.css",
+    "static/js/main.4f427df8.js"
+  ]
+}
