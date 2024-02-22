@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RedemptionUI/static/css/main.1acea8e9.css",
-    "main.js": "/RedemptionUI/static/js/main.3651669f.js",
+    "main.js": "/RedemptionUI/static/js/main.18c1c123.js",
     "static/js/453.4490800f.chunk.js": "/RedemptionUI/static/js/453.4490800f.chunk.js",
     "index.html": "/RedemptionUI/index.html",
     "main.1acea8e9.css.map": "/RedemptionUI/static/css/main.1acea8e9.css.map",
-    "main.3651669f.js.map": "/RedemptionUI/static/js/main.3651669f.js.map",
+    "main.18c1c123.js.map": "/RedemptionUI/static/js/main.18c1c123.js.map",
     "453.4490800f.chunk.js.map": "/RedemptionUI/static/js/453.4490800f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1acea8e9.css",
-    "static/js/main.3651669f.js"
+    "static/js/main.18c1c123.js"
   ]
 }
